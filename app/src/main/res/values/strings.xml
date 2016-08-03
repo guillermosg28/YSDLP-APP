@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">YSDLP</string>
+    <string name="action_settings">F.A.Q</string>
+
+    <!-- TABS PRINCIPAL-->
+    <string name="noticias_tabs">Noticias</string>
+    <string name="eventos_tabs">Eventos</string>
+    <string name="avisos_tabs">Búscame</string>
+
+    <!-- MENU FLOTANTE -->
+    <string name="faq_item">F.A.Q</string>
+    <string name="settings_item">Configuracion</string>
+
+    <!-- SICRONIZACION -->
+    <string name="account_type">com.zizehost.ysdlp.account</string>
+    <string name="provider_authority">com.zizehost.ysdlp</string>
+
+
+    <!-- PAGINA CRONOGRAMA -->
+    <string name="pagina_cronograma">
+        <![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>CRONOGRAMA - YSDLP</title>
+<link rel="stylesheet" href="http://capitulosdenovela.net/AppYSDLP/plugins/bootstrap/css/bootstrap.min.css" media="screen">
+</head>
+<style type="text/css">
+.colorSecundario{background-color:#E0F2F1;}.DetalleAdmision{margin:0;padding:0;}.DetalleAdmision li{list-style:none;display:block;border:1px solid #ddd;border-radius:5px;margin-left:3px;margin-right:3px;margin-bottom:5px;background:#B2DFDB;}.DetalleAdmision li a{text-decoration:none;color:#000;display:block;padding:10px;}.DetalleAdmision li a:hover{color:#000;background:#E0F2F1;border:none;}
+</style>
+<body>
+<div class="container">
+<div class="col-md-12">
+<div class="row">
+<h3 class="text-center">Programacion de matriculas 2016-I</h3>
+<div class="table-responsive">
+<table class="table table-bordered">
+<thead>
+<tr>
+<td class="colorSecundario" align="center"><b>FECHA</b></td>
+<td class="colorSecundario" align="center"><b>CODIGO</b></td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>18 abril</td>
+<td>2015-II y 2015-I</td>
+</tr>
+<tr>
+<td>19 abril</td>
+<td>2014-II y 2014-I</td>
+</tr>
+<tr>
+<td>20 abril</td>
+<td>2013-II y 2013-I</td>
+</tr>
+<tr>
+<td>21 abril</td>
+<td>2012-II y 2012-I</td>
+</tr>
+<tr>
+<td>22 abril</td>
+<td>2011-II y Otros</td>
+</tr>
+<tr>
+<td>22 de abril</td>
+<td>Cachimbos 2016-I</td>
+</tr>
+<tr>
+<td>25 de abril</td>
+<td>Inicio de clases</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+]]>
+</string>
+
+
+
+
+
+</resources>

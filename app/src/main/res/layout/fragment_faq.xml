@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="7dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="APP YSDLP VERSIÓN 1.1.0"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginBottom="15dp"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:padding="10dp"
+        android:text="Esta aplicación  es propiedad y está desarrollada por ZIZEHOST.COM. El servicio se ofrece a Usted (el Usuario)  aceptando sin excepciones todos los términos y condiciones contenidos de esta aplicación y todas las demás reglas de operación, políticas y  procedimientos que puedan ser publicadas de vez en cuando en la App. Al utilizar o acceder a CUALQUIER PARTE DEL SERVICIO, USTED DE ACUERDO CON TODOS LOS TÉRMINOS Y CONDICIONES aquí contenidas; SI NO ESTÁ  DE ACUERDO, NO USE O acceda al servicio."/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:id="@+id/faq_mas_informacion"
+        android:text="Mas información viste: www.yosoydelapedro.com/App"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>
